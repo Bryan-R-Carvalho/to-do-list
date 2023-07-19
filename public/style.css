@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+table{
+    border: 1px solid #3F2305;
+    background: #F5F5F5;
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+body{
+    padding-left: 23%;
+    padding-right: 23%;
+    background: #F2EAD3;
+    font-family: 'Inria Serif', serif;
+    margin: 20px;
+    text-align: center;
+}
+thead{
+    background: #DFD7BF;
+}
+h1{
+    font-size: 35px;
+    color: #3F2305;
+    margin-bottom: 20px;
+}
+button{
+    background: #3F2305;
+    color: #F5F5F5;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+
+.add-form{
+    display: flex;
+    background: #3F2305;
+}
